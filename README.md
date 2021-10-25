@@ -1,1 +1,1 @@
-"# testing" 
+Package for Gaussian class
